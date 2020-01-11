@@ -1,0 +1,10 @@
+# This is the configuration for MindMatter
+# Author: kingcreed
+
+# Change the no permission message.
+# Permissions can be found on the plugins Spigot page.
+noPermission: '&cYou do not have permission to perform this command.'
+
+# Change the 'error' message.
+error: '&cError'
+

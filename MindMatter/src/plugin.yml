@@ -1,0 +1,10 @@
+name: MindMatter
+version: 1.0
+author: kingcreed
+description: My plugin.
+main: com.kingcreed.mindmatter.MindMatter
+commands:
+  mindmatter:
+    description: Uses the command.
+    usage: /<command>
+    aliases: [mm]
